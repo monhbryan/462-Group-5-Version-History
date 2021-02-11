@@ -1,0 +1,8 @@
+1. Texting 911
+2. GPS location finder
+3. Heart Attack detector
+4. Pulse Counter
+5. Glucose Level Checker
+6. Music Player
+7. Phone Connection via Bluetooth
+8. Hat Lamp via phone app
